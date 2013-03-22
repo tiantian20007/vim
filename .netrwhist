@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Users/leshu-2/.ssh'
+let g:netrw_dirhist_2='/Users/leshu-2/Documents/repository/leshu/AnimationPro/AnimationPro.xcodeproj'
+let g:netrw_dirhist_3='/Users/leshu-2/.vim/bundle/vundle'
